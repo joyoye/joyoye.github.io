@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-05-01T02:01:56.486Z</updated>
+  <updated>2022-05-01T02:17:45.511Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,19 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>my first post</title>
-    <link href="http://example.com/2022/05/01/my-first-post/"/>
-    <id>http://example.com/2022/05/01/my-first-post/</id>
+    <title>Happy birthday,Wong!</title>
+    <link href="http://example.com/2022/05/01/wangchenglue/"/>
+    <id>http://example.com/2022/05/01/wangchenglue/</id>
     <published>2022-05-01T01:56:23.000Z</published>
-    <updated>2022-05-01T02:01:56.486Z</updated>
+    <updated>2022-05-01T02:17:45.511Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><p>内容</p><h2 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="生日快乐！"><a href="#生日快乐！" class="headerlink" title="生日快乐！"></a>生日快乐！</h2><p>14岁，少年加油，一切皆有可能！</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink&quot; title=&quot;第一章&quot;&gt;&lt;/a&gt;第一章&lt;/h2&gt;&lt;p&gt;内容&lt;/p&gt;
-&lt;h2 id=&quot;第二章&quot;&gt;&lt;a href=&quot;#第二章&quot; class=&quot;headerlink&quot; title=&quot;第二章&quot;&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;生日快乐！&quot;&gt;&lt;a href=&quot;#生日快乐！&quot; class=&quot;headerlink&quot; title=&quot;生日快乐！&quot;&gt;&lt;/a&gt;生日快乐！&lt;/h2&gt;&lt;p&gt;14岁，少年加油，一切皆有可能！&lt;/p&gt;
+</summary>
       
     
     
