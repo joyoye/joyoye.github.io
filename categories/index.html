@@ -229,7 +229,6 @@
 
           </div>
           
-    <div class="comments" id="gitalk-container"></div>
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -413,26 +412,6 @@
   
 
   
-
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
-
-<script>
-NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
-  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
-    var gitalk = new Gitalk({
-      clientID    : '2e9c73639bc7c7ab8e0c# GitHub Application Client ID',
-      clientSecret: 'facaf205672b557af3a9968713db83bd9848ccfa# GitHub Application Client Secret',
-      repo        : 'https://www.fedal.cn# Repository name to store issues',
-      owner       : 'joyoye# GitHub repo owner',
-      admin       : ['joyoye# GitHub repo owner and collaborators, only these guys can initialize gitHub issues'],
-      id          : 'a676607444a8bc8b150c9a3aff884e61',
-        language: 'zh-CN',
-      distractionFreeMode: true
-    });
-    gitalk.render('gitalk-container');
-  }, window.Gitalk);
-});
-</script>
 
 </body>
 </html>
